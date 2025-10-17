@@ -71,7 +71,7 @@ const ProductViewer = () => {
         <StudioLights />
 
         <ModelSwitcher
-          scale={isMobile ? scale - 0.03 : scale}
+          scale={isMobile ? parseFloat(scale) - 0.03 : parseFloat(scale)}
           isMobile={isMobile}
         />
       </Canvas>
