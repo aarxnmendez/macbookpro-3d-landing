@@ -105,10 +105,6 @@ src/
 - Improved **React state management** with Zustand.
 - Strengthened **responsive design** skills with Tailwind CSS.
 
-## 📸 Preview
-![Desktop Preview](https://github.com/aarxnmendez/macbookpro-3d-landing/blob/main/public/previews/desktop-preview.png)
-![Mobile Preview](https://github.com/aarxnmendez/macbookpro-3d-landing/blob/main/public/previews/mobile-preview.png)
-
 ## 🔗 Links
 - [Live Demo](https://aaronmendez-macbook-landing.vercel.app/)
 - **GitHub:** [@aarxnmendez](https://github.com/aarxnmendez)
