@@ -1,12 +1,11 @@
-import { useGLTF, useVideoTexture } from "@react-three/drei";
-import useMacbookStore from "../../store";
 import { useEffect } from "react";
-import { noChangeParts } from "../../constants";
+import { useGLTF, useVideoTexture } from "@react-three/drei";
+import useMacbookStore from "../../store/index.js";
+import { noChangeParts } from "../../constants/index.js";
 import { Color } from "three";
 
 export default function MacbookModel(props) {
   const { color, texture } = useMacbookStore();
-
   const { nodes, materials, scene } = useGLTF(
     "/models/macbook-transformed.glb"
   );
