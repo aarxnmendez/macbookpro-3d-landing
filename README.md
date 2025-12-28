@@ -17,7 +17,7 @@ Developed following a tutorial by [Adrian Hajdin](https://github.com/adrianhajdi
 
 ## 🛠 Tech Stack
 
-- [![React](https://img.shields.io/badge/-React-58C4DC?style=for-the-badge&logo=React&logoColor=white)](https://react.dev/) - The library for web and native user interfaces.
+- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/) - The library for web and native user interfaces.
 - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The programming language used in the project.
 - [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/gsap/) - Easy peasy animations for your projects.
 - [![Three.js](https://img.shields.io/badge/-Three.js-27136A?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) - JavaScript 3D library for rendering 3D graphics in the browser.
