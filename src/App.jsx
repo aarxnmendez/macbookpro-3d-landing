@@ -9,6 +9,7 @@ import Features from "./components/Features";
 import Highlights from "./components/Highlights";
 import Footer from "./components/Footer";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -24,6 +25,7 @@ const App = () => {
       <Highlights />
       <Footer />
       <Analytics />
+      <SpeedInsights />
     </main>
   );
 };
