@@ -8,6 +8,7 @@ import { ScrollTrigger } from "gsap/all";
 import Features from "./components/Features";
 import Highlights from "./components/Highlights";
 import Footer from "./components/Footer";
+import { Analytics } from "@vercel/analytics/react";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -22,6 +23,7 @@ const App = () => {
       <Features />
       <Highlights />
       <Footer />
+      <Analytics />
     </main>
   );
 };
